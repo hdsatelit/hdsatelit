@@ -1,6 +1,6 @@
 {
-  "name": "Blogul Meu",
-  "short_name": "Blog",
+  "name": "Aplicația oficială HDSatelit",
+  "short_name": "HD Satelit",
   "start_url": "https://www.hdsatelit.com/?m=1",
   "display": "standalone",
   "background_color": "#ffffff",
