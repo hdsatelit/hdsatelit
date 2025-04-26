@@ -1,18 +1,18 @@
 {
   "name": "Blogul Meu",
   "short_name": "Blog",
-  "start_url": "https://NUMEBLOG.blogspot.com/",
+  "start_url": "https://www.hdsatelit.com/?m=1",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
   "icons": [
     {
-      "src": "https://link-catre-icon-192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtjh8gw-RWNLRmGI4KMXVvQP2PlUKsNFFZGA4ypepHUS6U1Ebnf0_aHgfA6QrhlXDCQyvfldbK6lW8jP4ViKtlM5O6ypfjeeIUUXIdd_VTF9cj8SqrAAgWtlzKXb1q32Ok-364THhTkwDmAKZZQbibIXPH3GMMnhIXf7xEB9scs6AazmgsvupAOvSm5KI/s192/192logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://link-catre-icon-512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSD4NF34i7kXf_y1NpOTfT1FMhHhR9dRJiojEgDYPR6AE3JnCRTwpdSW2FIUd9B2FAQphjq9_Toq2rEGi-hjY8ACuYNbyLabefI3HRUQQIbqvm8uMsTkvcDKForbfo9vxstyhrQ678Mb0jXXGq-IRbaMjSrVT63sIL0YLyS0T6pB8s6hwQO9J1knaACrA/s16000/512logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
